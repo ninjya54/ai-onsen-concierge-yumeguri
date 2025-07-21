@@ -46,7 +46,7 @@
 ## 🎬 **Live Demonstrations**
 
 ### **Demo Videos**
-- 🎥 **[Complete Demonstration](https://youtu.be/ixQqJtY39lw)** - Full 5-minute walkthrough
+- 🎥 **[Complete Demonstration](https://youtu.be/ixQqJtY39lw)** - Full 3-minute walkthrough
 - 💻 **[Technical Deep Dive](Technical-Demo-Link)** - Agent Framework implementation
 
 ### **Key Demo Features**
