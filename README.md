@@ -1,3 +1,4 @@
+![AI Onsen Concierge](logo_enhanced.png)
 # 🌸 AI Onsen Concierge "Yumeguri" (湯めぐり)
 
 [![io.net Hackathon 2025](https://img.shields.io/badge/io.net-Hackathon%202025-blue)](https://io.net/hackathon)
